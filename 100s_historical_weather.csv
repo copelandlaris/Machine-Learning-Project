@@ -1,0 +1,201 @@
+location,date,mintemp,maxtemp,avgtemp,totalsnow,sunhour
+"Llanberis, Wales, United Kingdom",2018-05-13,3,9,6,0,16
+"Ashford, England, United Kingdom",2018-08-05,16,22,19,0,15
+"Cuyahoga Falls, Ohio, USA",2018-07-29,17,25,21,0,14
+"Essex, England, United Kingdom",2018-07-15,15,28,22,0,17
+"Fairplay, Colorado, USA",2018-07-08,8,23,16,0,12
+"Stearns, Kentucky, USA",2018-10-14,8,16,12,0,7
+"Cincinnati, Ohio, USA",2018-10-07,20,29,25,0,12
+"Chipping Campden, England, United Kingdom",2018-09-23,7,13,10,0,10
+"Huddersfield, England, United Kingdom",2018-11-04,8,12,10,0,1
+"La Grange, Wisconsin, USA",2018-11-04,4,10,7,0,1
+"Ashford, England, United Kingdom",2016-08-07,16,19,18,0,11
+"Fairplay, Colorado, USA",2016-08-07,4,20,12,0,13
+"Chipping Campden, England, United Kingdom",2016-09-25,10,17,14,0,11
+"Tengchong, Yunnan, China",2016-11-19,2,19,11,0,11
+"La Grange, Wisconsin, USA",2016-11-06,9,18,14,0,10
+"São João da Boa Vista, Brazil",2017-01-13,24,34,29,0,12
+"Folsom, California, USA",2017-05-28,13,28,21,0,15
+"Essex, England, United Kingdom",2017-07-16,16,23,20,0,10
+"Ashford, England, United Kingdom",2017-08-06,11,17,14,0,14
+"Fairplay, Colorado, USA",2017-08-06,4,19,12,0,10
+"Cuyahoga Falls, Ohio, USA",2017-07-30,18,27,23,0,14
+"Stearns, Kentucky, USA",2017-10-15,12,25,19,0,6
+"Chipping Campden, England, United Kingdom",2017-09-24,11,20,16,0,12
+"Taitung County, Taiwan",2017-12-24,21,26,24,0,11
+"Huddersfield, England, United Kingdom",2017-11-05,3,8,6,0,9
+"La Grange, Wisconsin, USA",2017-11-05,1,10,6,0,2
+"Battle, England, United Kingdom",2019-07-07,11,18,15,0,16
+"Fairplay, Colorado, USA",2019-07-07,4,19,12,0,15
+"Ashford, England, United Kingdom",2019-08-04,15,19,17,0,10
+"Cuyahoga Falls, Ohio, USA",2019-07-28,20,28,24,0,14
+"Ouray, Colorado, USA",2019-07-28,10,25,18,0,14
+"Essex, England, United Kingdom",2019-07-14,11,19,15,0,12
+"Chipping Campden, England, United Kingdom",2019-09-22,12,19,16,0,13
+"Cincinnati, Ohio, USA",2019-09-22,19,30,25,0,12
+"Whistler, British Columbia, Canada",2019-09-22,6,12,9,0,2
+"Stearns, Kentucky, USA",2019-10-13,4,19,12,0,12
+"La Grange, Wisconsin, USA",2019-11-10,-2,2,0,0,1
+"Huddersfield, England, United Kingdom",2019-11-03,5,10,8,0,8
+"Porthtowan, England, United Kingdom",2020-02-01,6,11,9,0,5
+"Fairplay, Colorado, USA",2020-07-12,9,23,16,0,11
+"Mesquite, Nevada, USA",2020-03-22,6,19,13,0,12
+"Manila, Philippines",2020-03-08,27,34,31,0,11
+"Cuyahoga Falls, Ohio, USA",2020-08-23,19,29,24,0,9
+"Ashford, England, United Kingdom",2020-08-09,16,24,20,0,15
+"La Grange, Wisconsin, USA",2020-11-08,12,20,16,0,6
+"Ojai, California, USA",2020-11-01,18,24,21,0,11
+"Stearns, Kentucky, USA",2020-10-17,3,15,9,0,11
+"El Paso, Texas, USA",2021-03-28,8,21,15,0,13
+"Rocksprings, Texas, USA",2021-03-14,11,19,15,0,12
+"Mesquite, Nevada, USA",2021-02-21,5,14,10,0,11
+"Macedonia, Ohio, USA",2021-06-06,19,27,23,0,14
+"Ouray, Colorado, USA",2021-08-01,8,17,13,0,8
+"Essex, England, United Kingdom",2021-07-11,12,19,16,0,6
+"Fairplay, Colorado, USA",2021-07-11,7,21,14,0,15
+"Cincinnati, Ohio, USA",2021-09-12,19,32,26,0,12
+"Ashford, England, United Kingdom",2021-08-08,10,17,14,0,5
+"Tübingen, Germany",2021-10-23,1,10,6,0,9
+"Stearns, Kentucky, USA",2021-10-02,16,28,22,0,12
+"La Grange, Wisconsin, USA",2021-11-14,-2,1,-1,1,1
+"Rocksprings, Texas, USA",2022-03-13,2,17,10,0,12
+"Mesquite, Nevada, USA",2022-02-27,-2,16,7,0,8
+"El Paso, Texas, USA",2022-03-27,14,28,21,0,9
+"Macedonia, Ohio, USA",2022-06-05,12,23,18,0,15
+"Shrewsbury, England, United Kingdom",2022-05-15,11,15,13,0,1
+"Saltaire, England, UK",2022-05-08,7,16,12,0,11
+"Essex, England, United Kingdom",2022-07-10,12,28,20,0,17
+"Fairplay, Colorado, USA",2022-07-10,9,23,16,0,9
+"Manila, Philippines",2022-06-12,27,32,30,0,8
+"Whistler, British Columbia, Canada",2022-09-10,9,29,19,0,13
+"Ashford, England, United Kingdom",2022-08-07,14,23,19,0,15
+"Ouray, Colorado, USA",2022-07-24,10,20,15,0,6
+"Mesquite, Nevada, USA",2022-10-16,16,27,22,0,11
+"Stearns, Kentucky, USA",2022-10-15,14,22,18,0,11
+"Independence, Kansas, USA",2022-09-25,18,30,24,0,12
+"Chipping Campden, England, United Kingdom",2022-09-18,8,17,13,0,7
+"La Grange, Wisconsin, USA",2022-11-13,-4,2,-1,0,10
+"Huddersfield, England, United Kingdom",2022-11-05,5,11,8,0,1
+"La Grange, Wisconsin, USA",2013-11-03,0,9,5,0,10
+"Chipping Campden, England, United Kingdom",2013-09-22,14,21,18,0,13
+"La Grange, Wisconsin, USA",2014-11-09,1,8,5,0,10
+"Chicago, Illinois, USA",2014-10-19,5,12,9,0,11
+"Chipping Campden, England, United Kingdom",2014-09-28,12,21,17,0,10
+"Worcestershire, England, United Kingdom",2015-05-03,9,18,14,0,4
+"Fairplay, Colorado, USA",2015-08-09,4,18,11,0,12
+"Chipping Campden, England, United Kingdom",2015-09-27,7,17,12,0,11
+"La Grange, Wisconsin, USA",2015-11-08,1,10,6,0,10
+"Chicago, Illinois, USA",2015-10-18,6,15,11,0,11
+"Trieste, Italy",2018-01-06,7,10,9,0,2
+"Drakensberg Mountains, South Africa",2018-04-29,7,20,14,0,9
+"San Martín de los Andes, Argentina",2018-04-07,1,13,7,0,8
+"Lake Elton, Russia",2018-05-27,8,19,14,0,16
+"Pembrokeshire Coast, Wales, United Kingdom",2018-05-13,8,12,10,0,16
+"Montreux, Switzerland",2018-07-29,11,26,19,0,15
+"Pwllheli, Wales, United Kingdom",2018-06-24,12,17,15,0,17
+"Galilee, Israel",2018-10-26,21,26,24,0,10
+"Réunion Island, France",2018-10-21,7,19,13,0,10
+"Vienna Woods, Austria",2018-09-30,5,15,10,0,12
+"Pong Yaeng, Thailand",2018-11-11,21,29,25,0,11
+"Fuguei Cape to Eluanbi Lighthouse, Taiwan",2016-04-04,26,26,26,0,1
+"Chicamocha Canyon, Colombia",2016-06-06,4,13,9,0,19
+"Vielle-Aure, France",2016-08-28,15,22,19,0,12
+"Chicamocha Canyon, Colombia",2016-07-04,8,22,15,0,19
+"Galilee, Israel",2016-10-28,21,26,24,0,13
+"Corsica, France",2016-10-29,24,31,28,0,6
+"Omiš, Croatia",2016-10-23,4,15,10,0,1
+"Réunion Island, France",2016-10-23,5,16,11,0,10
+"Trieste, Italy",2017-01-06,-6,-1,-4,0,9
+"Fuguei Cape to Eluanbi Lighthouse, Taiwan",2017-04-02,27,28,28,0,10
+"Prado del Rey, Spain",2017-03-05,7,17,12,0,1
+"Kuusamo, Finland",2017-05-27,-3,5,1,0,15
+"Pembrokeshire Coast, Wales, United Kingdom",2017-04-30,9,12,11,0,2
+"Gaspésie, Quebec, Canada",2017-07-02,15,22,19,0,7
+"Montreux, Switzerland",2017-07-30,12,26,19,0,11
+"Réunion Island, France",2017-10-22,8,13,11,0,8
+"Palatinate Forest, Germany",2017-10-15,5,11,8,0,11
+"Trieste, Italy",2019-01-06,-2,7,3,0,9
+"Drakensberg Mountains, South Africa",2019-04-28,9,20,15,0,11
+"Yamanashi, Japan",2019-04-28,-1,18,9,0,14
+"Fuguei Cape to Eluanbi Lighthouse, Taiwan",2019-04-14,26,27,27,0,6
+"Kuusamo, Finland",2019-05-25,3,7,5,0,1
+"Fiambalá, Argentina",2019-05-11,14,20,17,0,8
+"Wales, United Kingdom",2019-05-06,2,11,7,0,6
+"Pwllheli, Wales, United Kingdom",2019-06-30,13,15,14,0,15
+"Pululahua Geobotanical Reserve, Ecuador",2019-06-30,26,33,30,0,13
+"Brecon Beacons, Wales, United Kingdom",2019-06-23,11,17,14,0,11
+"Asenovgrad, Bulgaria",2019-08-18,12,28,20,0,14
+"Pembrokeshire Coast, Wales, United Kingdom",2019-09-08,12,15,14,0,13
+"Oberwald, Switzerland",2019-09-08,1,6,4,0.5,9
+"Galilee, Israel",2019-10-25,19,23,21,0,13
+"Réunion Island, France",2019-10-20,11,16,14,0,2
+"Crimea, Ukraine",2019-10-19,24,37,31,0,12
+"Trieste, Italy",2020-01-05,0,8,4,0,9
+"Turku, Finland",2020-07-30,13,20,17,0,15
+"Oberwald, Switzerland",2020-09-05,7,17,12,0,8
+"Asenovgrad, Bulgaria",2020-08-23,21,33,27,0,14
+"Laoniuwan, Inner Mongolia, China",2020-08-09,20,34,27,0,13
+"Pong Yaeng, Thailand",2020-11-08,22,30,26,0,5
+"Ardennes, Belgium",2021-05-30,10,20,15,0,16
+"Kuusamo, Finland",2021-05-29,1,8,5,0,16
+"Krynica-Zdrój, Poland",2021-05-29,7,13,10,0,7
+"Jiaoxi Township, Taiwan",2021-04-25,14,22,18,0,10
+"Drakensberg Mountains, South Africa",2021-04-24,4,17,11,0,11
+"Corsica, France",2021-07-25,23,32,28,0,11
+"Ylläs-Pallas, Finland",2021-07-11,12,16,14,0,8
+"Llanberis, Wales, United Kingdom",2021-09-12,10,12,11,0,3
+"Istria, Croatia",2021-09-12,16,28,22,0,12
+"Asenovgrad, Bulgaria",2021-08-22,17,30,24,0,14
+"Spa, Belgium",2021-08-15,15,24,20,0,14
+"Réunion Island, France",2021-10-24,2,18,10,0,10
+"Lake Biwa, Japan",2021-10-03,19,26,23,0,11
+"Kumagawa, Japan",2022-03-06,2,6,4,0,2
+"amsterdam, Netherlands",2022-04-26,5,14,10,0,14
+"Yamanashi, Japan",2022-04-24,10,18,14,0,6
+"Fuguei Cape to Eluanbi Lighthouse, Taiwan",2022-04-17,27,28,28,0,8
+"Kuusamo, Finland",2022-05-28,3,13,8,0,1
+"Ardennes, Belgium",2022-05-22,10,21,16,0,16
+"İznik, Turkey",2022-05-22,14,24,19,0,15
+"Guillestre, France",2022-07-10,10,24,17,0,16
+"uonuma, Japan",2022-06-27,20,30,25,0,9
+"Tihio, Greece",2022-09-04,17,22,20,0,2
+"Asenovgrad, Bulgaria",2022-08-21,18,28,23,0,5
+"Gorce Mountains, Poland",2022-08-07,11,22,17,0,15
+"Ariège, France",2022-07-24,22,35,29,0,14
+"Corsica, France",2022-07-24,23,31,27,0,4
+"Doi Muser, Thailand",2022-09-25,22,27,25,0,10
+"Serre-Ponçon, France",2022-09-18,5,22,14,0,12
+"Chamonix, France",2008-08-31,12,23,18,0,14
+"Chamonix, France",2009-08-30,7,21,14,0,14
+"Beasain, Spain",2010-07-18,15,26,21,0,15
+"Beasain, Spain",2011-07-17,15,19,17,0,8
+"ostrhauderfehn, germany",2011-07-09,12,19,16,0,16
+"Częstochowa, Poland",2011-07-03,16,26,21,0,7
+"Chamonix, France",2011-08-28,5,19,12,0,14
+"Beasain, Spain",2012-07-15,15,19,17,0,11
+"Częstochowa, Poland",2012-07-08,14,28,21,0,14
+"ostrhauderfehn, germany",2012-07-07,13,22,18,0,10
+"Little Carpathians, Slovakia",2012-07-01,27,33,30,0,12
+Czech Republic,2012-11-25,3,8,6,0,9
+"Loja, Spain",2012-10-21,10,18,14,0,11
+"ostrhauderfehn, germany",2013-07-13,12,19,16,0,16
+"Częstochowa, Poland",2013-07-07,19,29,24,0,13
+"Bromo Tengger Semeru National Park, Indonesia",2013-11-23,6,12,9,0,14
+"Loja, Spain",2013-10-20,15,24,20,0,11
+"Réunion Island, France",2013-10-20,12,20,16,0,8
+"Galilee, Israel",2013-10-11,18,24,21,0,12
+"St. Lambrecht, Austria",2014-05-11,1,12,7,0.9,10
+"Istria, Croatia",2014-04-13,5,13,9,0,9
+"ostrhauderfehn, germany",2014-07-12,13,23,18,0,15
+"Chicamocha Canyon, Colombia",2014-06-02,2,9,6,0,15
+"Occitanie, France",2014-06-01,17,25,21,0,13
+"Bamburgh, England, United Kingdom",2014-09-21,9,14,12,0,13
+"Galilee, Israel",2014-10-24,20,24,22,0,13
+"Loja, Spain",2014-10-19,16,27,22,0,11
+"Chicamocha Canyon, Colombia",2015-06-08,3,15,9,0,15
+"St. Lambrecht, Austria",2015-05-17,6,16,11,0,14
+"ostrhauderfehn, germany",2015-09-27,10,16,13,0,12
+"Corsica, France",2015-11-01,24,29,27,0,4
+"Galilee, Israel",2015-10-24,21,26,24,0,5
+"Réunion Island, France",2015-10-25,10,16,13,0,8
+"Argelès-sur-Mer, France",2015-10-11,8,15,12,0,11
