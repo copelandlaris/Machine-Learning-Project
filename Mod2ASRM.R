@@ -43,6 +43,5 @@ p <- plot(top_rules_conf,
           control = list(colors = c("#EE0000FF", "blue")), 
           engine = "ggplot2")
 
-# Update the plot with a title and change the legend title to "Confidence"
 p + ggtitle("Association Rules Network Top Rules by Confidence") +
   labs(color = "Confidence")
